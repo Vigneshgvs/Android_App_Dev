@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntroApp</string>
+    <string name="home_text">Hello World! I am Vignesh. I love to develop new stuffs and contribute to be a helpful resource!</string>
+    <string name="user_image_content">Image of user</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="dark_theme">Dark Theme</string>
+</resources>
